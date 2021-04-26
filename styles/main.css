@@ -1,0 +1,30 @@
+* {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+}
+nav {
+  background-color: #eebb44;
+  margin-bottom: 40px;
+  position: fixed;
+  width: 100%;
+}
+nav h1 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+main {
+  padding-top: 145px;
+}
+.char-card {
+  border: 1px solid #e5e5e5;
+  margin-bottom: 20px;
+}
+.char-card-image {
+  width: 100%;
+}
+.char-description {
+  padding: 20px;
+}
+.char-description p {
+  margin: 0.5em 0;
+}
